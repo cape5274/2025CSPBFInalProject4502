@@ -18,7 +18,7 @@ The goal is to leverage multi-platform data to provide actionable insights for m
    Aggregated user interaction metrics, such as total plays and unique listeners, were found to be the strongest predictors of popularity.
 
 2. **Can simple behavioral data predict song popularity effectively?**  
-   Yes. Using just total song plays and the number of unique listeners, the model achieved perfect accuracy on the dataset.
+   Yes we saw this using just total song plays and the number of unique listeners, the model achieved perfect accuracy on the dataset.
 
 3. **How can this inform recommendation systems?**  
    Insights from user engagement and song popularity can guide playlist curation, highlight trending tracks, and support user retention strategies which can be developed for further issues or questions theres services may want to look into.
