@@ -26,7 +26,7 @@ The goal is to leverage multi-platform data to provide actionable insights for m
 ---
 
 ## Final Project Paper
-[Download the PDF of the project paper](docs/Final Report Perez.docx (1).pdf)
+[Download the PDF of the project paper](Final%20Report%20Perez.docx%20%281%29.pdf)
 
 ---
 
