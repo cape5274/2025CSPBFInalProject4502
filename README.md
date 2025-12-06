@@ -30,8 +30,8 @@ The goal is to leverage multi-platform data to provide actionable insights for m
 
 ---
 
-## Video Demonstration
-[Watch the video demonstration](https://youtu.be/YuPfHUx0j0k)
+## Video 
+[Watch the video presentation](https://youtu.be/YuPfHUx0j0k)
 
 ---
 
