@@ -1,4 +1,4 @@
-# 2025CSPBFInalProject4502
+# User Interactions using various Datasets 
 
 ## Description
 This project analyzes user interactions across Spotify, Last.fm, and the Million Song Dataset (MSD) to understand the factors that influence song popularity and to improve music recommendation systems. The workflow includes:
